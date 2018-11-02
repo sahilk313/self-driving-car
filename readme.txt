@@ -7,3 +7,5 @@ The graph plotted by default is training error vs epochs.
 The default values of epoch has already benn fed.
 
 NOTE: python2 is required to run the program
+
+the zip contains folder steerig that has images and the data
